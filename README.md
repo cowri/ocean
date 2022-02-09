@@ -1,4 +1,4 @@
-# Shell V2 Ocean
+# Shell v2 Ocean
 
 If you aren't familiar with solidity, the [white paper](Ocean_-_Shell_v2_Part_2.pdf) outlines the high level behavior and the key implementation details of the code in this repository.
 
